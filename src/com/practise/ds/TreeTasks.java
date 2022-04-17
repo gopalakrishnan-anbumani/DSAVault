@@ -1,5 +1,8 @@
 package com.practise.ds;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class TreeTasks {
 
 	public static void main(String[] args) {
@@ -30,6 +33,9 @@ public class TreeTasks {
 		Node nodeR4 = new Node(9);
 		nodeL2.setLeft(nodeL4); nodeL2.setRight(nodeR4);
 	
+		Node nodeL10 = new Node(10);
+		nodeL3.setRight(nodeL10);
+		
 		tree.search();
 	}
 }
@@ -49,6 +55,26 @@ class Tree {
 		System.out.println();
 		System.out.println("Post Order");
 		postOrderSearch(root);
+		System.out.println();
+		System.out.println("BreathFirst Search");
+		breathFirstSearch(root);
+	}
+	
+	public void breathFirstSearch(Node node) {
+		if(node != null){
+			Queue<Node> q = new LinkedList<>();
+			q.add(node);
+			while(q.peek() != null){
+				Node topNode = q.poll();
+				System.out.print(topNode.getData() + " ");
+				if(topNode.getLeft() != null){
+					q.add(topNode.getLeft());	
+				}
+				if(topNode.getRight() != null){
+					q.add(topNode.getRight());	
+				}
+			}
+		}
 	}
 	
 	public void inorderSearch(Node node) {
