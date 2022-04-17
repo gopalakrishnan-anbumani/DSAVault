@@ -45,7 +45,9 @@ public class TreeTasks {
 class Tree {
 	private Node root;
 	
-	
+	/**
+	 * Tree DFS & BFS Coding. 
+	 */
 	public void search() {
 		System.out.println("In Order");
 		inorderSearch(root);
