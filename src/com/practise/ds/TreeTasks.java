@@ -1,7 +1,10 @@
 package com.practise.ds;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
+
 
 public class TreeTasks {
 
@@ -61,6 +64,41 @@ class Tree {
 		System.out.println("BreathFirst Search");
 		breathFirstSearch(root);
 	}
+	
+	
+	/**
+	 * Leet Code Problem:
+	 * https://leetcode.com/explore/learn/card/data-structure-tree/134/traverse-a-tree/931/
+	 * @param root
+	 * @return
+	 * 
+	 * Input: root = [3,9,20,null,null,15,7]
+   		Output: [[3],[9,20],[15,7]]
+	 * 
+	 */
+    public List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> list = new ArrayList<>();
+       if(root != null){
+			Queue<TreeNode> parent = new LinkedList<>();
+			Queue<TreeNode> child = new LinkedList<>();
+			parent.add(root);
+			while(parent.peek() != null){
+                List<Integer> l = new ArrayList<>();               
+                while(parent.peek() != null) {
+                	TreeNode parentNode = parent.poll();
+                    l.add(parentNode.val);	
+                    if(parentNode.left != null)  child.add(parentNode.left);
+                    if(parentNode.right != null) child.add(parentNode.right);
+                }
+                list.add(l);
+                if(!child.isEmpty()){
+                	parent = child;
+                	child = new LinkedList<>();
+                }
+			}
+		}
+        return list;
+    }
 	
 	public void breathFirstSearch(Node node) {
 		if(node != null){
@@ -144,3 +182,16 @@ class Node {
 		this.left = left;
 	}
 }
+
+ class TreeNode {
+     int val;
+     TreeNode left;
+     TreeNode right;
+     TreeNode() {}
+     TreeNode(int val) { this.val = val; }
+     TreeNode(int val, TreeNode left, TreeNode right) {
+         this.val = val;
+         this.left = left;
+         this.right = right;
+     }
+ }
