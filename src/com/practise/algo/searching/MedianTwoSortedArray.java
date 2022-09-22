@@ -1,6 +1,44 @@
 class MedianTwoSortedArray {
+    // Optimised Solution. Used Binary search to smaller array 
+    //Take You Forward -https://www.youtube.com/watch?v=NTop3VTjmxk
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        
+        //Perform Binary Search in Smaller Array. Bcs it'll take less time to finalise the partitions.
+        if(nums2.length < nums1.length){
+            return findMedianSortedArrays(nums2, nums1);
+        }
+        int size1 = nums1.length;
+        int size2 = nums2.length;
+        
+        int low = 0;
+        int high = size1;
+        
+        while(low <= high) {
+            
+            int cut1 = (low + high) / 2;
+            int cut2 = ((size1 + size2 + 1) / 2) - cut1;   // If total size is odd, the median should come to left partition. so adding 1 here. 
+                      
+            int l1 = cut1 == 0 ? Integer.MIN_VALUE : nums1[cut1-1] ;
+            int l2 = cut2 == 0 ? Integer.MIN_VALUE : nums2[cut2-1];
+            int r1 = cut1 == size1 ? Integer.MAX_VALUE : nums1[cut1];
+            int r2 = cut2 == size2 ? Integer.MAX_VALUE : nums2[cut2];
+            
+            if(l1 <= r2 && l2 <= r1){
+                if((size1 + size2) % 2 == 0){
+                    return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
+                } else {
+                    return Math.max(l1, l2);
+                }
+            } else if(l1 > r2) {
+                high = cut1 -1;
+            } else {
+                low = cut1 + 1;
+            }
+        }
+        return 0.0;
+    }
     
-    //Optimized Solution
+    // Solution - Didn't used Binary Search
     // Own logic implemented from https://www.youtube.com/watch?v=NTop3VTjmxk
     // Median of two Sorted Arrays of Different Sizes | Binary Search - TUF
     public double findMedianSortedArrays1(int[] nums1, int[] nums2) {
