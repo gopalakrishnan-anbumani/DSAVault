@@ -28,9 +28,10 @@ Example Maximize the Gold:
         2. Once path is taken. No Going back
         3. Game ends when no more steps can ba taken.
         
-    We can choose next grid based on the gold value it has. Once choosed the max gold grid, we can next grid Gold value. So gold value reveal step by step. So collecting the gold step by step based on max gold values. Sometimes we can collect more gold. Sometimes another path will have more gold values.
+    We can choose next grid based on the gold value it has. Once choosed the max gold grid, we can next grid Gold value. 
+    So gold value reveal step by step. So collecting the gold step by step based on max gold values. Sometimes we can collect more gold. Sometimes another path will have more gold values.
     
-    ![image](https://user-images.githubusercontent.com/17019723/201487119-92ca5825-c47c-450d-ac45-62610d46f558.png)
+![image](https://user-images.githubusercontent.com/17019723/201487143-f5940233-6c5b-4165-9ab8-5f1911bedea8.png)
 
     
                                     
