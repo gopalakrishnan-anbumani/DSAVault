@@ -1,7 +1,7 @@
 #Greedy Algorithm
 
 * Solution is built piece by piece. Next piece offers the most obvious and immediate benefits
-* Maximizes the profir & Minimizes the cost
+* Maximizes the profit & Minimizes the cost
 * It means that locally optimal choice is made in the hope that it leads to a globally optimal solution
 
 Example:
@@ -18,6 +18,22 @@ B -> D = 50
 C -> D = 5
 
 Find shortest path A -> D. At 1st step comparing A to B & A to C. Greedy approach chose A->B bcs cost is 10. But after B it cost more. so Greedy approach sometimes fail.
+
+#FreeCodeCamp - Video - [https://www.youtube.com/watch?v=bC7o8P_Ste4&t=536s] ##Start
+
+Example Maximize the Gold:
+  You are in a center of a grid. You can move to any direction (UP, DOWN, LEFT, RIGHT). You collect gold from that grid. Before making the step you get to know the value of next grid has.
+    Rules:
+        1. can move any direction
+        2. Once path is taken. No Going back
+        3. Game ends when no more steps can ba taken.
+        
+    We can choose next grid based on the gold value it has. Once choosed the max gold grid, we can next grid Gold value. So gold value reveal step by step. So collecting the gold step by step based on max gold values. Sometimes we can collect more gold. Sometimes another path will have more gold values.
+    
+    ![image](https://user-images.githubusercontent.com/17019723/201487119-92ca5825-c47c-450d-ac45-62610d46f558.png)
+
+    
+                                    
 
 
 
