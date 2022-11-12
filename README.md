@@ -13,3 +13,6 @@ Searching:
   
 Sorting:
   1. Merge Sort - 17-09-2022
+
+Greedy:
+  1. Minimum flip cost for switch On for all the lights - https://www.geeksforgeeks.org/count-minimum-right-flips-to-set-all-values-in-an-array/
