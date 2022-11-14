@@ -15,4 +15,8 @@ Sorting:
   1. Merge Sort - 17-09-2022
 
 Greedy:
+    FreeCodeCamp Greedy Approach - [https://youtu.be/bC7o8P_Ste4] - (1 to 3)
+
   1. Minimum flip cost for switch On for all the lights - https://www.geeksforgeeks.org/count-minimum-right-flips-to-set-all-values-in-an-array/
+  2. Find Highest Product [HighestProduct.java ] - https://leetcode.com/problems/maximum-product-of-three-numbers/
+  3. Max Disjoint Intervals - https://www.interviewbit.com/problems/disjoint-intervals/
