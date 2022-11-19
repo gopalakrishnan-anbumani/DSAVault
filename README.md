@@ -1,4 +1,4 @@
-# AlgoDS
+# Algorithm and Data structure 
 
 Searching:
   1. Group Anagram - 18-09-2022 - https://leetcode.com/problems/group-anagrams/
