@@ -24,5 +24,13 @@ class MajorityElement {
         }
         return res;
     }
-
+    
+    //Using Sorting
+    //O(Log(N))
+    //https://leetcode.com/problems/majority-element/solutions/127412/majority-element/
+    /* Majority Element present in array more than the N/2. So Obvisouly majority element present at N/2 Position if sorted.*/
+    public int majorityElement(int[] nums) {
+        Arrays.sort(nums);
+        return nums[nums.length/2];
+    }
 }
