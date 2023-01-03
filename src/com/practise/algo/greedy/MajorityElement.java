@@ -25,6 +25,23 @@ class MajorityElement {
         return res;
     }
     
+    //Using Boyer-Moore Voting Algorithm
+    //O(N)
+    public int majorityElement(int[] nums) {
+       int currentElement = -1;
+        int count = 0;
+        for(int num : nums){
+            if(count == 0){
+                currentElement = num;
+            }
+            if(currentElement == num){
+                count++;
+            } else {
+                count--;
+            }
+        }
+        return currentElement;
+    }
     //Using Sorting
     //O(Log(N))
     //https://leetcode.com/problems/majority-element/solutions/127412/majority-element/
