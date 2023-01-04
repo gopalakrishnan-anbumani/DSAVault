@@ -15,7 +15,7 @@ Sorting:
   1. Merge Sort - 17-09-2022
 
 Greedy:
-    FreeCodeCamp Greedy Approach - [https://youtu.be/bC7o8P_Ste4] - (1 to 8)
+    FreeCodeCamp Greedy Approach - [https://youtu.be/bC7o8P_Ste4] - (1 to 9)
 
   1. Minimum flip cost for switch On for all the lights - https://www.geeksforgeeks.org/count-minimum-right-flips-to-set-all-values-in-an-array/
   2. Find Highest Product [HighestProduct.java ] - https://leetcode.com/problems/maximum-product-of-three-numbers/
@@ -25,5 +25,7 @@ Greedy:
   6. Minimum candy can be distribute based on rating - [DistributeCandy.java] - https://www.interviewbit.com/problems/distribute-candy/
   7. Assign Mice to Holes - [AssignMiceToHoles.java] - https://www.interviewbit.com/problems/assign-mice-to-holes/
   8. Seats - [Seats.java] - https://www.interviewbit.com/problems/seats/
+  9. Gas Station - [GasStation.java] - https://leetcode.com/problems/gas-station/
+
  
  
