@@ -1,5 +1,11 @@
 #Greedy Algorithm
 
+1. Given a positive fraction, break it down into its Egyptian fractions. -[Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/greedy/EgyptianFraction.java) - [Link](https://www.educative.io/courses/algorithms-coding-interviews-java/JPnmDXmPJ0v)
+
+#####################################################################################################################################################
+#####################################################################################################################################################
+#####################################################################################################################################################
+
 * Solution is built piece by piece. Next piece offers the most obvious and immediate benefits
 * Maximizes the profit & Minimizes the cost
 * It means that locally optimal choice is made in the hope that it leads to a globally optimal solution
