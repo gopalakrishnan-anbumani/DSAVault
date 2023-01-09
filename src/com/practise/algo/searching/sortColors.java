@@ -23,6 +23,23 @@ class Solution {
         nums[a] = nums[b];
         nums[b] = temp;
     }
+    
+    //try with for loop
+    public void sortColors1(int[] nums) {
+        int l = 0;
+        int h = nums.length -1;
+        for(int i=0;i<=h;i++){
+            if(nums[i] == 0){
+                swap(nums, l, i);
+                l++;
+            } 
+            if(nums[i] == 2){
+                swap(nums, i, h);
+                --h;
+                i--;
+            }
+        }
+    }
 }
 
 
