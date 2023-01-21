@@ -1,5 +1,7 @@
 //Eduactive Two Pointer Pattern
 //LeetCode - https://leetcode.com/problems/reverse-words-in-a-string/description/
+
+//Mine
 class ReverseWordsInSentence {
     public String reverseWords(String sentence) {
                 String str = "";
@@ -42,5 +44,44 @@ class ReverseWordsInSentence {
             }
         }
         return ans.charAt(ans.length()-1) == ' ' ? ans.substring(0,ans.length()-1) : ans;
+    }
+}
+
+//After Enhancement
+class Solution {
+    public String reverseWords(String sentence) {
+        sentence = trimSpaces(sentence);
+        int n = sentence.length();
+        StringBuilder str = new StringBuilder();
+        int start = n-1;
+        int end = n;
+        while(end > 0){
+            while(start >= 0 && sentence.charAt(start) != ' '){
+                start--;
+            }
+            int i = start+1;
+            while(i < end){                
+                str.append(sentence.charAt(i));
+                i++;
+            }
+            str.append(' ');
+            end = start;
+            start--;
+        }
+        return str.toString().substring(0, str.length()-1);
+    }
+
+    public String trimSpaces(String sentence){
+
+        int i = 0;
+        int n = sentence.length();
+        StringBuilder str = new StringBuilder();
+        while(i<n){
+            while(i<n && sentence.charAt(i) == ' ')  i++;
+            while(i<n && sentence.charAt(i) != ' ') str.append(sentence.charAt(i++));
+            while(i<n && sentence.charAt(i) == ' ')  i++;
+            if(i < n) str.append(' ');
+        }
+        return str.toString();
     }
 }
