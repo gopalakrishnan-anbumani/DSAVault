@@ -8,3 +8,4 @@
 2. Valid Palindrome - [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/two-pointers/ValidPalindrome.java)
 3. Sum Of Three Numbers (Equal to Target) - [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/two-pointers/SumOfThree.java)
 4. Reverse words in Sentence - [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/description/) --- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/two-pointers/ReverseWordsInSentence.java)
+5. Valid Palindrome After deleting at most one Element - [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/description/)  -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/two-pointers/ValidPalindrom2.java)
