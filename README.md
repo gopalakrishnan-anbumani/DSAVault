@@ -10,6 +10,7 @@ Searching:
   7. Search Insert Position - [SearchInsertPosition.java] - 27-09-2022 - https://leetcode.com/problems/search-insert-position/
   8. SparseSearch - [SparseSearch.java] - 10-10-2022 - https://www.geeksforgeeks.org/sparse-search/
   9. Dutch National Flag problem - [sortColors.java] - 12-10-2022 - https://leetcode.com/problems/sort-colors/
+  10. Intersection of Two Arrays - 24-01-2023 - [LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/description/) - [Code](src/com/practise/algo/searching/IntersectionOfTwoArrays.java)
   
 Sorting:
   1. Merge Sort - 17-09-2022
