@@ -10,3 +10,7 @@
 4. Reverse words in Sentence - [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/description/) --- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/two-pointers/ReverseWordsInSentence.java)
 5. Valid Palindrome After deleting at most one Element - [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/description/)  -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/two-pointers/ValidPalindrom2.java)
 6. Linked List Cycle - [LeetCode](https://leetcode.com/problems/linked-list-cycle/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/LinkedListCycle.java)
+
+
+### Fast Slow Pointer
+1. Circular Array Loop - [LeetCode](https://leetcode.com/problems/circular-array-loop/description/) - [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/CircularArrayLoop.java)
