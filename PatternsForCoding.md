@@ -16,4 +16,6 @@ Start : 01-02-2023 ::: End : --
 1. Circular Array Loop - [LeetCode](https://leetcode.com/problems/circular-array-loop/description/) - [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/CircularArrayLoop.java)
 2. Middle Of the Linked List - [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/description/) - [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/MiddleLinkedList.java)
 3. Linked List Cycle - [LeetCode](https://leetcode.com/problems/linked-list-cycle/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/LinkedListCycle.java)
+4. Reverse Linked List - [LeetCode](https://leetcode.com/problems/reverse-linked-list/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/ReverseLinkedList.java)
+5. Palindrome Linked List - [LeetCode](https://leetcode.com/problems/palindrome-linked-list/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/fast-slow-pointer/PalindromeLinkedList.java)
 
