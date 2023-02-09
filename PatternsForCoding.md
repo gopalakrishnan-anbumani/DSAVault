@@ -25,4 +25,5 @@ Start Date : 04-02-2023 <> End Date :
 1. Find Maximum in Sliding window - [LeetCode](https://leetcode.com/problems/sliding-window-maximum/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/FindMaxInWindow.java)
 2. Smallest window in a String containing all characters of other String - [InterviewBit](https://www.interviewbit.com/problems/window-string/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/MinWindowString.java)
 3. Minimum window Subsequence - [CodingNinja](https://www.codingninjas.com/codestudio/problems/minimum-window-subsequence_2181133?leftPanelTab=0) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/MinWindowSubsequence.java)
+4. Repeated DNA Sequences - [LeetCode](https://leetcode.com/problems/repeated-dna-sequences/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/RepeatedDNASequences.java)
 
