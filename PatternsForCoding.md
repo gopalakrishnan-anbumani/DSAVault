@@ -28,4 +28,6 @@ Start Date : 04-02-2023 <> End Date :
 4. Repeated DNA Sequences -Eduactive- [LeetCode](https://leetcode.com/problems/repeated-dna-sequences/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/RepeatedDNASequences.java)
 5. Best time to buy & Sell Stock - NeetCode Problem- [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) -- [Code](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/BestTimeToBuySellStock.java)
 6. Longest Substring Without Repeating Characters - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/LongestSubstringWithoutRepeatingCharacters.java)
+7. Minimum Size Subarray Sum - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/minimum-size-subarray-sum/description/) -- [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/sliding-window/MinSizeSubarraySum.java)
+
 
