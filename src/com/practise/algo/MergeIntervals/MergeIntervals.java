@@ -2,6 +2,7 @@
 //Eduactive - Patterns Coding - Merge Intervals
 
 class MergeIntervals {
+    //LeetCode - Accepted. Solved by 1st try.
     public int[][] merge(int[][] intervals) {
         int n = intervals.length;
         if(n <= 1){
@@ -35,5 +36,26 @@ class MergeIntervals {
             aa[i][1] = result.get(i).get(1);
         }
         return aa;
+    }
+    
+    //Modified above solution in better way (Reference)
+    public int[][] merge(int[][] intervals) {
+        int n = intervals.length;
+        Arrays.sort(intervals, Comparator.comparingInt(i -> i[0]));
+        List<int[]> result = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            if(result.isEmpty()) {
+                result.add(intervals[i]); 
+                continue;
+            }
+
+            int[] interval = result.get(result.size()-1);
+            if(interval[1] >= intervals[i][0]){
+                interval[1] =  Math.max(intervals[i][1], interval[1]);
+            } else {
+                result.add(intervals[i]);
+            }
+        }
+        return result.toArray(new int[result.size()][2]);
     }
 }
