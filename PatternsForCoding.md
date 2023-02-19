@@ -34,5 +34,6 @@ Eduactive Course -> Start Date : 04-02-2023  End Date : 17-02-2023
 ### Merge Intervals
 Eduactive Course -> start Date - 18-02-2023 End Date : 
 1. Merge Intervals - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/merge-intervals/description/) -- [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/MergeIntervals/MergeIntervals.java)
+2. Insert Intervals - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/insert-interval/description/) -- [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/merge-intervals/InsertInterval.java)
 
 
