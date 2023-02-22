@@ -36,5 +36,6 @@ Eduactive Course -> start Date - 18-02-2023 End Date :
 1. Merge Intervals - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/merge-intervals/description/) -- [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/MergeIntervals/MergeIntervals.java)
 2. Insert Intervals - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/insert-interval/description/) -- [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/merge-intervals/InsertInterval.java)
 3. Interval List Intersections - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/interval-list-intersections/description/) -- [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/merge-intervals/IntervalListIntersections.java)
+4. Employee Free Times - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/employee-free-time/) - [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/merge-intervals/EmployeeFreeTimes.java)
 
 
