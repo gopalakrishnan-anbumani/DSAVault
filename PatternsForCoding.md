@@ -39,4 +39,8 @@ Eduactive Course -> start Date - 18-02-2023 End Date : 24-02-2023
 4. Employee Free Times - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/employee-free-time/) - [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/merge-intervals/EmployeeFreeTimes.java)
 5. Find Right Interval - LeetCode - [Problem](https://leetcode.com/problems/find-right-interval/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/AlgoDS/blob/main/src/com/practise/algo/patterns/merge-intervals/FindRightInterval.java)
 
+### Inplace Reverse LinkedList
+Eduactive Course -> start : 25-02-2023
+1. Reverse Linked List - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/reverse-linked-list/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/ReverseLinkedList.java)
+
 
