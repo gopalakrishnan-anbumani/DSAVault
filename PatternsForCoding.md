@@ -42,5 +42,6 @@ Eduactive Course -> start Date - 18-02-2023 End Date : 24-02-2023
 ### Inplace Reverse LinkedList
 Eduactive Course -> start : 25-02-2023
 1. Reverse Linked List - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/reverse-linked-list/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/ReverseLinkedList.java)
+2. Reorder List - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/reorder-list/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/ReorderList.java)
 
 
