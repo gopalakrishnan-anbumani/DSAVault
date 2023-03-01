@@ -23,20 +23,23 @@ class ReverseNodesInEvenLengthGroups {
             currentGroup = 1;
             while(temp != null && currentGroup < k){
                 temp = temp.next;
-                currentGroup++;
+                if(temp != null){
+                    currentGroup++;
+                }
             }
+            ListNode nextGroupStart = temp != null ? temp.next : null;
+            ListNode currentGroupEnd = temp;
             if(currentGroup % 2 == 0){
-                ListNode reversedListNode = reverseListNode(previousGroupEnd.next, temp != null ? temp.next : null);
+                ListNode reversedListNode = reverseListNode(previousGroupEnd.next, nextGroupStart);
+                currentGroupEnd = previousGroupEnd.next;
                 previousGroupEnd.next = reversedListNode;
             }
-            ptr = temp;
+            ptr = currentGroupEnd;
         }
         return head;
     }
 
     public ListNode reverseListNode(ListNode start, ListNode end){
-        System.out.println(start != null ? start.val : "--");
-        System.out.println(end != null ? end.val : "??");
         ListNode prev = end;
         ListNode curr = start;
         while(curr != end){
