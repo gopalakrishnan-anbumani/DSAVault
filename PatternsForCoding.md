@@ -46,5 +46,6 @@ Eduactive Course -> start : 25-02-2023
 3. Reverse Linked List II - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/reverse-linked-list-ii/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/ReverseLinkedList2.java)
 4. Reverse Nodes in k-Group - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/ReverseNodesinKGroup.java)
 5. Swapping Nodes in a Linked List - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) - [solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/SwappingNodesInLinkedList.java)
+6. Swap Nodes in Pairs - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/SwapNodesInPairs.java)
 
 
