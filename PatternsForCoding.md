@@ -48,5 +48,6 @@ Eduactive Course -> start : 25-02-2023 - End : -1-03-2023
 5. Swapping Nodes in a Linked List - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/) - [solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/SwappingNodesInLinkedList.java)
 6. Reverse Nodes In Even Length Groups - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/ReverseNodesInEvenLengthGroups.java)
 7. Swap Nodes in Pairs - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/SwapNodesInPairs.java)
+8. #Remove Nth Node From End of List - [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/RemoveNthNodeFromEndList.java)
 
 
