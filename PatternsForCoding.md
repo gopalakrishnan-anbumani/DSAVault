@@ -51,3 +51,7 @@ Eduactive Course -> start : 25-02-2023 - End : -1-03-2023
 8. #Remove Nth Node From End of List - [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/inplace-reverse-linkedlist/RemoveNthNodeFromEndList.java)
 
 
+### Two Heaps
+Eduactive Course -> Statr : 03-03-2023
+1. Maximize Capital - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/ipo/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/MaximizeCapital.java)
+
