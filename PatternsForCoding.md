@@ -54,4 +54,5 @@ Eduactive Course -> start : 25-02-2023 - End : -1-03-2023
 ### Two Heaps
 Eduactive Course -> Statr : 03-03-2023
 1. Maximize Capital - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/ipo/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/MaximizeCapital.java)
+2. Find Median from Data Stream - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/find-median-from-data-stream/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/FindMedianFromDataStream.java)
 
