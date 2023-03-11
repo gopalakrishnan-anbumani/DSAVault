@@ -57,3 +57,6 @@ Eduactive Course -> Statr : 03-03-2023
 2. Find Median from Data Stream - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/find-median-from-data-stream/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/FindMedianFromDataStream.java)
 3. Sliding Window Median - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/sliding-window-median/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/SlidingWindowMedian.java)
 
+### K-way Merge
+Eduactive Course -> Start : 11-03-2023
+1. Merge Sorted Array - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/merge-sorted-array/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/k-way-merge/MergeSortedArray.java)
