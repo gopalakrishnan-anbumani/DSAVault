@@ -59,4 +59,4 @@ Eduactive Course -> Statr : 03-03-2023
 
 ### K-way Merge
 Eduactive Course -> Start : 11-03-2023
-1. Merge Sorted Array - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/merge-sorted-array/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/k-way-merge/MergeSortedArray.java)
+1. Merge Sorted Array - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/merge-sorted-array/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/MergeSortedArray.java)
