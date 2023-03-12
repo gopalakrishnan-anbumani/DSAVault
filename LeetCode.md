@@ -8,3 +8,4 @@
 | 4 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Linked%20List%20Cycle%20II.java)
 | 5 | [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Isomorphic%20Strings.java)
 | 6 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Merge%20Sorted%20Array.java)
+| 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/MergeKSortedLists.java)
