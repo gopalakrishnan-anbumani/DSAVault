@@ -10,3 +10,4 @@
 | 6 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Merge%20Sorted%20Array.java)
 | 7 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/MergeKSortedLists.java)
 | 8 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Symmetric%20Tree.java)
+| 9 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Sum%20Root%20to%20Leaf%20Numbers.java)
