@@ -1,7 +1,7 @@
 ## Leet Code Solved Question & Answers
 
 | # | Problem                                                                                                                             | Java                         | Difficulty |
-|---|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+|---|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|
 | 1 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)                         | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Kth%20Missing%20Positive%20Number.java)|
 | 2 | [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Time%20to%20Complete%20Trips.java) |
 | 3 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Koko%20Eating%20Bananas.java)
@@ -13,5 +13,6 @@
 | 9 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Sum%20Root%20to%20Leaf%20Numbers.java)
 | 10 | [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Check%20Completeness%20of%20a%20Binary%20Tree.java)
 | 11 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.java)
-| 12 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Design%20Browser%20History.java)
-| 13 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Design%20Add%20and%20Search%20Words%20Data%20Structure.java)
+| 12 | [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Design%20Browser%20History.java) | Medium |
+| 13 | [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Design%20Add%20and%20Search%20Words%20Data%20Structure.java)| Medium |
+| 14 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Can%20Place%20Flowers.java) | Easy |
