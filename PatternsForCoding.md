@@ -68,3 +68,4 @@ Eduactive Course -> Start : 11-03-2023
 | # | Problem                 | Topic   | Solution    |   Difficulty |  Source  |
 |---|-------------------------|---------|-------------|--------------|----------|
 | 1 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/Kth%20Largest%20Element%20in%20a%20Stream.java) | Easy | Eduactive Pattern |
+| 2 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/top-k-elements/ReorganizeString.java) | Medium | Eduactive Pattern |
