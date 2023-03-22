@@ -56,7 +56,6 @@ Eduactive Course -> Statr : 03-03-2023
 1. Maximize Capital - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/ipo/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/MaximizeCapital.java)
 2. Find Median from Data Stream - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/find-median-from-data-stream/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/FindMedianFromDataStream.java)
 3. Sliding Window Median - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/sliding-window-median/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/SlidingWindowMedian.java)
-4. Kth Largest Element in a Stream - NeetCode/LeetCode - [Problem](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/Kth%20Largest%20Element%20in%20a%20Stream.java)
 
 ### K-way Merge
 Eduactive Course -> Start : 11-03-2023
@@ -64,3 +63,8 @@ Eduactive Course -> Start : 11-03-2023
 2. Merge k Sorted Lists - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/merge-k-sorted-lists/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/MergeKSortedLists.java)
 3. Kth Smallest Number in M Sorted Lists - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/KthSmallestNumberInMSortedLists.java)
 4. Find K Pairs with Smallest Sums - Eduactive/LeetCode -  [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/Find%20K%20Pairs%20with%20Smallest%20Sums.java)
+
+### Top K Elements
+| # | Problem                 | Topic   | Solution    |   Difficulty |  Source  |
+|---|-------------------------|---------|-------------|--------------|----------|
+| 1 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/Kth%20Largest%20Element%20in%20a%20Stream.java) | Easy | Eduactive Pattern |
