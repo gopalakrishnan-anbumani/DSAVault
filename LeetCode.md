@@ -18,3 +18,4 @@
 | 14 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Can%20Place%20Flowers.java) | Easy |
 | 15 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Number%20of%20Zero-Filled%20Subarrays.java) | Medium |
 | 16 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/SqrtX.java) | Easy |
+| 17 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Path%20Sum.java) | Medium |
