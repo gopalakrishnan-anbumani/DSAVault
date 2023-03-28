@@ -1,7 +1,7 @@
 ## Leet Code Solved Question & Answers
 
-| # | Problem                                                                                                                             | Java                         | Difficulty |
-|---|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|
+| # | Problem                                                                                                                             | Java                         | Difficulty | Topic |
+|---|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----|
 | 1 | [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/)                         | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Kth%20Missing%20Positive%20Number.java)|
 | 2 | [2187. Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/description/)) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Time%20to%20Complete%20Trips.java) |
 | 3 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Koko%20Eating%20Bananas.java)
@@ -18,4 +18,5 @@
 | 14 | [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Can%20Place%20Flowers.java) | Easy |
 | 15 | [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Number%20of%20Zero-Filled%20Subarrays.java) | Medium |
 | 16 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/SqrtX.java) | Easy |
-| 17 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Path%20Sum.java) | Medium |
+| 17 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Path%20Sum.java) | Medium | DP |
+| 18 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Cost%20For%20Tickets.java) | Medium | DP |
