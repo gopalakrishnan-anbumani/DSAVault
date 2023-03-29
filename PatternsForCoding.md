@@ -64,7 +64,7 @@ Eduactive Course -> Start : 11-03-2023
 3. Kth Smallest Number in M Sorted Lists - Eduactive/LeetCode - [Problem](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/KthSmallestNumberInMSortedLists.java)
 4. Find K Pairs with Smallest Sums - Eduactive/LeetCode -  [Problem](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/) - [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/k-way-merge/Find%20K%20Pairs%20with%20Smallest%20Sums.java)
 
-### Top K Elements
+
 | # | Problem                 | Topic   | Solution    |   Difficulty |  Source  |
 |---|-------------------------|---------|-------------|--------------|----------|
 | 1 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/two-heaps/Kth%20Largest%20Element%20in%20a%20Stream.java) | Easy | Eduactive Pattern |
@@ -73,3 +73,4 @@ Eduactive Course -> Start : 11-03-2023
 | 4 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/top-k-elements/TopKFrequentElements.java) | Medium | Eduactive Pattern |
 | 5 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/top-k-elements/KthLargestElementinanArray.java) | Medium | Eduactive Pattern |
 | 6 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | Top K Elements | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/top-k-elements/Kth%20Smallest%20Element%20in%20a%20BST.java) | Medium | Eduactive Pattern |
+| 7 | [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/) | Modified Binary Search | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/src/com/practise/algo/patterns/modified-binary-search/FirstBadVersion.java) | Easy | Eduactive Pattern |
