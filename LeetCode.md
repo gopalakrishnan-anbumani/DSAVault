@@ -20,3 +20,4 @@
 | 16 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/SqrtX.java) | Easy |
 | 17 | [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Path%20Sum.java) | Medium | DP |
 | 18 | [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Minimum%20Cost%20For%20Tickets.java) | Medium | DP |
+| 19 | [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Successful%20Pairs%20of%20Spells%20and%20Potions.java) | Medium | Binary Search |
