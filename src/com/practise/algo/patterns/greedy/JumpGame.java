@@ -3,6 +3,19 @@
 //Eduactive - Pattern - Greedy
 
 class Solution {
+
+    //NeetCode
+    public boolean canJump(int[] nums) {
+        int n = nums.length;
+        int lastGoal = n-1;
+        for(int k = n-2; k>=0; k--){
+            if(k + nums[k] >= lastGoal){
+                lastGoal = k;
+            }
+        }
+        return lastGoal==0;
+    }
+
     //My Solution
     public boolean canJump(int[] nums) {
         int n = nums.length;
