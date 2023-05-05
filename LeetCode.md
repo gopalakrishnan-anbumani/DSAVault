@@ -35,3 +35,4 @@
 | 31 | [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java) | Easy | Heap  |
 | 32 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/71faf0179796def906a000a158df29aa9baccb66/leetcode-practise/Valid%20Anagram.java) | Easy | Array  |
 | 33 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Min%20Stack.java) | Easy | Stack  |
+| 34 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](--) | Hard | Two Pointers  |
