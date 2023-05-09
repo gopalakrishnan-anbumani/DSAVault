@@ -1,7 +1,47 @@
 //473. Matchsticks to Square
 //https://leetcode.com/problems/matchsticks-to-square/description/
+//Tired solution is added
 
 class Solution {
+    int size = 0;
+    int side[] = new int[4];
+    public boolean makesquare(int[] matchsticks) {
+        if(matchsticks.length < 4){
+            return false;
+        }
+        int sum = 0;
+        List<Integer> list = new ArrayList<>();
+        for(int match : matchsticks){
+            sum+=match;
+            list.add(match);
+        }
+        if(sum%4!=0){
+            return false;
+        }
+        size = sum/4;
+        Collections.sort(list, Collections.reverseOrder());
+        return rec(list, 0);
+    }
+    public boolean rec(List<Integer> sticks, int index){
+        if(index == sticks.size()){
+            return true;
+        }
+        for(int i=0;i<4;i++){
+            if(side[i]+sticks.get(index) <= size){
+                side[i] += sticks.get(index);
+                if(rec(sticks, index+1)){
+                    return true;
+                }
+                side[i] -= sticks.get(index);
+            }
+        }
+        return false;
+    }
+}
+
+
+//Tried with few test cases passed. most tc failed.
+class Solution1 {
     int size = 0;
     public boolean makesquare(int[] matchsticks) {
         if(matchsticks.length < 4){
