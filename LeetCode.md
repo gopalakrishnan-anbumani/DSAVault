@@ -36,3 +36,4 @@
 | 32 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/71faf0179796def906a000a158df29aa9baccb66/leetcode-practise/Valid%20Anagram.java) | Easy | Array  |
 | 33 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Min%20Stack.java) | Easy | Stack  |
 | 34 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](--) | Hard | Two Pointers  |
+| 35 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Combination%20Sum%20II.java) | Medium | Back Tracking  |
