@@ -37,3 +37,4 @@
 | 33 | [155. Min Stack](https://leetcode.com/problems/min-stack/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Min%20Stack.java) | Easy | Stack  |
 | 34 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](--) | Hard | Two Pointers  |
 | 35 | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Combination%20Sum%20II.java) | Medium | Back Tracking  |
+| 36 | [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Permutation%20in%20String.java) | Medium | Sliding Window  |
