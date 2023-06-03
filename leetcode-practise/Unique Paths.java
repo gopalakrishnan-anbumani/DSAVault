@@ -12,8 +12,25 @@ class Solution {
         }
         return res;
     }
+
+    //Top Down - Using Iterative
+    public int topDown(int m, int n){
+        int[][] dp = new int[m][n];
+        for(int i=0;i<m;i++){
+            dp[i][0] = 1;
+        }
+        for(int i=0;i<n;i++){
+            dp[0][i] = 1;
+        }
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
+                dp[i][j] = dp[i-1][j] + dp[i][j-1]; 
+            }
+        }
+        return dp[m-1][n-1];
+    }
   
-  //Bottom-Up DP - Memo
+    //Bottom-Up DP - Memo
     public int rec(int m, int n, int r, int c){
         if(r == m-1 && c == n-1){
             return 1;
