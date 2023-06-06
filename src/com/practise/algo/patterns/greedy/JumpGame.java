@@ -3,6 +3,18 @@
 //Eduactive - Pattern - Greedy
 
 class Solution {
+    
+    //from front
+    public boolean canJump(int[] nums) {
+        int maxIndex = nums[0];
+        for(int i=1;i<nums.length;i++){
+            if(maxIndex >= i){
+                maxIndex = Math.max(maxIndex, i+nums[i]);
+            }
+        }
+        return maxIndex >= nums.length-1;
+    }
+
 
     //NeetCode
     public boolean canJump(int[] nums) {
