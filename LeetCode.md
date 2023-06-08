@@ -48,3 +48,4 @@
 | 44 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Rotate%20Array.java) | Medium | Array  |
 | 45 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.java) | Medium | Greedy  |
 | 46 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Unique%20Paths.java) | Medium | DP  |
+| 47 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/N-th%20Tribonacci%20Number.java) | Easy | DP  |
