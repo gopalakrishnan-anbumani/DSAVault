@@ -50,3 +50,4 @@
 | 46 | [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Unique%20Paths.java) | Medium | DP  |
 | 47 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/N-th%20Tribonacci%20Number.java) | Easy | DP  |
 | 48 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Longest%20Increasing%20Subsequence.java) | Medium | DP  |
+| 49 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MinCostClimbingStairs.java) | Easy | DP  |
