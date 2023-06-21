@@ -52,3 +52,4 @@
 | 48 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Longest%20Increasing%20Subsequence.java) | Medium | DP  |
 | 49 | [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MinCostClimbingStairs.java) | Easy | DP  |
 | 50 | [198. House Robber](https://leetcode.com/problems/house-robber/description) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/HouseRobber.java) | Medium | DP  |
+| 51 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/DeleteAndEarn.java) | Medium | DP  |
