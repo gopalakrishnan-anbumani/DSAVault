@@ -54,3 +54,4 @@
 | 50 | [198. House Robber](https://leetcode.com/problems/house-robber/description) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/HouseRobber.java) | Medium | DP  |
 | 51 | [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/DeleteAndEarn.java) | Medium | DP  |
 | 52 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/UniquePathsII.java) | Medium | DP  |
+| 53 | [120. Triangle](https://leetcode.com/problems/triangle/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Triangle.java) | Medium | DP  |
