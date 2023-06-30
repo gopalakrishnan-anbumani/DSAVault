@@ -57,3 +57,4 @@
 | 53 | [120. Triangle](https://leetcode.com/problems/triangle/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Triangle.java) | Medium | DP  |
 | 54 | [931. Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MinimumFallingPathSum.java) | Medium | DP  |
 | 55 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MaximalSquare.java) | Medium | DP  |
+| 56 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/PartitionEqualSubsetSum.java) | Medium | DP  |
