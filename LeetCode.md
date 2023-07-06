@@ -59,3 +59,4 @@
 | 55 | [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MaximalSquare.java) | Medium | DP  |
 | 56 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/PartitionEqualSubsetSum.java) | Medium | DP  |
 | 57 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/LongestPalindromicSubstring.java) | Medium | DP  |
+| 58 | [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/WordBreak.java) | Medium | DP  |
