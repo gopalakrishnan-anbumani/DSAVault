@@ -62,3 +62,4 @@
 | 58 | [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/WordBreak.java) | Medium | DP  |
 | 59 | [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/LongestCommonSubsequence.java) | Medium | DP  |
 | 60 | [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/LongestPalindromicSubsequence.java) | Medium | DP  |
+| 61 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/EditDistance.java) | Medium | DP  |
