@@ -76,4 +76,10 @@
 | 71 | [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)                                                    | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/BestTimetoBuyandSellStockIV.java)                                              | Hard       | DP             |
 | 72 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/)                                                                                              | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/WordBreakII.java)                                                              | Hard       | DP             |
 | 73 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                                                                                          | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/PerfectSquares.java)                                                           | Medium     | DP             |
+| 73 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                                                                                   | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/DecodeWays.java)                                                               | Medium     | DP             |
+
+
+
+
+
 
