@@ -5,6 +5,27 @@
 import java.util.HashMap;
 
 class DecodeWays {
+
+    //DP
+    public int numDecodingsNPass(String s) {
+        int[] dp = new int[s.length()+1];
+        dp[s.length()] = 1;
+        for(int i=s.length()-1; i>=0; i--){
+            if(s.charAt(i)!='0'){
+                dp[i] = dp[i+1];
+            }
+            if(i<s.length()-1){
+                int num = (Integer.parseInt(String.valueOf(s.charAt(i))) * 10)
+                        + Integer.parseInt(String.valueOf(s.charAt(i+1)));
+                if(num >9 && num<27){
+                    dp[i]=dp[i+1]+dp[i+2];
+                }
+            }
+        }
+        return dp[0];
+    }
+
+    //Recursion
     HashMap<String, Integer> hm = new HashMap<>();
     public int numDecodings(String s) {
         return decodeRec(s);
