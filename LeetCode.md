@@ -78,6 +78,7 @@
 | 73 | [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)                                                                                          | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/PerfectSquares.java)                                                           | Medium     | DP             |
 | 74 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                                                                                   | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/DecodeWays.java)                                                               | Medium     | DP             |
 | 75 | [338. CountingBits](https://leetcode.com/problems/counting-bits/description/)                                                                                               | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/CountingBits.java)                                                             | Easy       | DP             |
+| 76 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                            | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MissingNumbers.java)                                                           | Easy       | Cyclic Sort    |
 
 
 
