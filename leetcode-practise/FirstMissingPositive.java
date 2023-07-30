@@ -10,16 +10,12 @@ class FirstMissingPositive {
         while(idx < n){
             int num = nums[idx]; //if num 3 means. put it in 2 idx
             //swap
-            if(num>0&&num<=n){
-                if(idx+1 != num){
-                    //put num in num-1 place
-                    int temp = nums[num-1];
-                    if(temp != num){
-                        nums[idx] = temp;
-                        nums[num-1] = num;
-                        continue;
-                    }
-                }
+            if(num>0 && num<=n && idx+1 != num && nums[num-1] != num){
+                //put num in num-1 place
+                int temp = nums[num-1];
+                nums[idx] = temp;
+                nums[num-1] = num;
+                continue;
             }
             idx++;
         }
