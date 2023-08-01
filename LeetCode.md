@@ -81,6 +81,7 @@
 | 76 | [268. Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                                            | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/MissingNumbers.java)                                                           | Easy       | Cyclic Sort    |
 | 77 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)                                                                             | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/FirstMissingPositive.java)                                                     | Hard       | Cyclic Sort    |
 | 78 | [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/description/)                                                                                   | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/CamelcaseMatching.java)                                                        | Medium     | Two Pointers   |
+| 79 | [77. Combinations](https://leetcode.com/problems/combinations/description/)                                                                                                 | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/Combinations.java)                                                             | Medium     | Back Tracking  |
 
 
 
