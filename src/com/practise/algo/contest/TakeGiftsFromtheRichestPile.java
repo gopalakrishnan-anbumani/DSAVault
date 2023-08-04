@@ -1,7 +1,11 @@
 //https://leetcode.com/contest/weekly-contest-331/problems/take-gifts-from-the-richest-pile/
 
 
-class Solution {
+import java.util.Collections;
+import java.util.Iterator;
+import java.util.PriorityQueue;
+
+class TakeGiftsFromtheRichestPile {
     public long pickGifts(int[] gifts, int k) {
         long res = 0l;
 		PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());
