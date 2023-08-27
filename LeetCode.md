@@ -88,6 +88,7 @@
 | 83 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)                                                                                    | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/CourseScheduleII.java)                                                         | Medium     | Topological Sort |
 | 84 | [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)                                                                    | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/RepeatedSubstringPattern.java)                                                 | Easy       | String           |
 | 85 | [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)                                                                                       | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/SetMatrixZeroes.java)                                                          | Medium     | Matrix           |
+| 86 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                                                                                 | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/RotateImage.java)                                                              | Medium     | Matrix           |
 
 
 
