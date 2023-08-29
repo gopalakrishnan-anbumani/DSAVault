@@ -91,6 +91,7 @@
 | 86 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/)                                                                                                 | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/RotateImage.java)                                                              | Medium     | Matrix           |
 | 87 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                                                               | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/SpiralMatrix.java)                                                             | Medium     | Matrix           |
 | 88 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/description/)                                                                       | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/WhereWillTheBallFall.java)                                                     | Medium     | Matrix           |
+| 89 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)                                                                                        | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/BasicCalculator.java)                                                          | Hard       | Stack            |
 
 
 
