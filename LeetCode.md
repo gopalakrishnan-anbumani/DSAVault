@@ -92,6 +92,7 @@
 | 87 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)                                                                                               | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/SpiralMatrix.java)                                                             | Medium     | Matrix           |
 | 88 | [1706. Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/description/)                                                                       | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/WhereWillTheBallFall.java)                                                     | Medium     | Matrix           |
 | 89 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/)                                                                                        | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/BasicCalculator.java)                                                          | Hard       | Stack            |
+| 90 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)                                       | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/RemoveAllAdjacentDuplicatesInString.java)                                      | Easy       | Stack            |
 
 
 
