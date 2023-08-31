@@ -2,7 +2,11 @@
 //https://leetcode.com/problems/3sum/description/
 //NeetCode - 2 Pointer
 
-class Solution {
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         int i = 0;
