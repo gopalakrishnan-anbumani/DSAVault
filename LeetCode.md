@@ -100,6 +100,7 @@
 | 95 | [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)                                                                                    | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/CombinationSumIV.java)                                                         | Medium     | Linked List      |
 | 96 | [2038.Remove-colored-pieces-if-both-neighbors-are-the-same-color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/description/)    | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/RemoveSameColor.java)                                                          | Medium     | Greedy           |
 | 97 | [403. Frog Jump](https://leetcode.com/problems/frog-jump/description/)                                                                                                      | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/FrogJump.java)                                                                 | Hard       | HashMap          |
+| 98 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)                                                                                                 | [Solution](https://github.com/gopalakrishnan-anbumani/DSAVault/blob/main/leetcode-practise/JumpGameII.java)                                                               | Medium     | DP               |
 
 
 
